@@ -1,0 +1,17 @@
+Variables: Digamos que es como una caja donde almacenas jueguetes (cualquier numero, letra o frase) que quieras, y sacar ese juguete cuando te apetezca usarlo y jugar
+
+Strings: Los strings es basicamente todo lo que puedes poner en un texto, numeros y letras encerrados con estas comillas "" o '' ejemplo: "2 gatos", es una string.
+
+Funciones:
+Imagina que estas armando un carro... Logicamente necesitas herramientas y piezas para armarlo uno por uno...
+Bueno, en JavaScript estas herramientas se llaman "functions", son pequeñas herramientas que creas y cumplen una funcion (para el carro, puedes guardarlas y usarlas cuando las necesites.
+Las guardas y pones dentro que funcion debe realizar y para ver la funcion que hace la podemos llamar con la palabra "return" y el nombre de nuestra funcion.
+
+Declaraciones If:
+Los if funcionan para que nuestras Variables hagan algo o si no, que suceda otra cosa diferente. Es como encender una bombilla, que pasa si le das a encender? Se enciende y si le das a "apagar", se apaga.
+
+Valores Booleanos:
+Son palabras, numeros o cualquier valor que quieras, que sea correcto o incorrecto. Correcto es "true" y Falso "false", como si estuvieras en un examen, una pregunta puede ser verdadera o falsa, si respondes bien "true" y si no "false".
+
+
+
